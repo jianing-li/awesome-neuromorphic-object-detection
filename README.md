@@ -263,6 +263,7 @@ ___
 ### 3D Object Detection
 - <a name="cho2025ev"></a> Cho H, Kang J, Kim Y, et al., *[Ev-3DOD: Pushing the temporal boundaries of 3D object detection with event cameras](https://arxiv.org/abs/2502.19630)*, Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), 2025. [DSEC-3DOD Dataset](https://drive.google.com/drive/folders/1A6XhFxDlqcIgTi28G01fhXBQceaK5vjV?usp=drive_link), [Code](https://github.com/mickeykang16/Ev3DOD)
 
+- <a name="cho2025ev"></a> Yang J, Cho H, Yoon K, et al., *[Unleashing the temporal potential of stereo event cameras for continuous-time 3D object detection](https://openaccess.thecvf.com/content/ICCV2025/html/Kang_Unleashing_the_Temporal_Potential_of_Stereo_Event_Cameras_for_Continuous-Time_ICCV_2025_paper.html)*, Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), 2025. [Code](https://github.com/mickeykang16/Ev-Stereo3D)
 
 ### Object Detection with Large Language Models
 - <a name="liu2024eventgpt"></a> Liu S, Li J, Zhao G, et al., *[EventGPT: Event stream understanding with multimodal large language models](https://arxiv.org/pdf/2412.00832)*, Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), 2025. [Project](https://xdusyl.github.io/eventgpt.github.io/)
